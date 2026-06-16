@@ -4,6 +4,10 @@
 
 ---
 
+**Author:** Maxim Semenov  
+**Website:** [smnv.org](https://smnv.org)  
+**Email:** [maxim@smnv.org](mailto:maxim@smnv.org)
+
 If this project helps your work, consider supporting future development: [GitHub Sponsors](https://github.com/sponsors/mxmsmnv) or [smnv.org/sponsor](https://smnv.org/sponsor/).  
 
 ## Why TeleWire?
@@ -68,7 +72,7 @@ Full API reference, configuration options, hook examples, formatting guide, and 
 
 ## Author
 
-**Maxim Alex** — [smnv.org](https://smnv.org) · [GitHub](https://github.com/mxmsmnv) · maxim@smnv.org
+**Maxim Semenov** — [smnv.org](https://smnv.org) · [GitHub](https://github.com/mxmsmnv) · maxim@smnv.org
 
 ## License
 

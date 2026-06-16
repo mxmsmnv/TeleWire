@@ -5,7 +5,7 @@
  * 
  * Send notifications via Telegram Bot API
  * 
- * @author Maxim Alex
+ * @author Maxim Semenov <maxim@smnv.org> (smnv.org)
  * @license MIT
  * @link https://github.com/mxmsmnv/TeleWire
  * 
@@ -26,7 +26,8 @@ class TeleWire extends WireData implements Module, ConfigurableModule {
             'version' => '1.0.0',
             'summary' => __('Send notifications via Telegram Bot API. Alternative to email notifications.'),
             'href' => 'https://github.com/mxmsmnv/TeleWire',
-            'author' => 'Maxim Alex',
+            'author' => 'Maxim Semenov',
+            'href'     => 'https://smnv.org',
             'icon' => 'telegram',
             'singular' => true,
             'autoload' => true,

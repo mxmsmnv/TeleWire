@@ -3,7 +3,7 @@
 /**
  * Telegram Bot API Wrapper
  * 
- * @author Maxim Alex
+ * @author Maxim Semenov <maxim@smnv.org> (smnv.org)
  */
 
 class TelegramAPI extends WireData {
