@@ -2,6 +2,8 @@
 
 **Telegram notifications for ProcessWire.** A modern alternative to email — instant delivery, rich formatting, media attachments.
 
+![TeleWire](assets/TeleWire.png)
+
 ---
 
 **Author:** Maxim Semenov  
